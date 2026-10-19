@@ -1,0 +1,6 @@
+{
+  "name": "Anämie: Symptome, Ursachen und Diagnose",
+  "description": "Offizielle Verkaufsseite für den umfassenden medizinischen Leitfaden zu Blutarmut, Symptomen und Laborwerten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
